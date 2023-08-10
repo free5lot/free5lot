@@ -12,7 +12,7 @@ I use this account to publish my projects and provide limited support for them.
 It allows to swap the Fn key and left Control key and a make some other keyboard tweaks on Macbook Pro and Apple keyboards in GNU/Linux.  
 Some features of the patched version were sent upstream.
       
-2. [Camera_Net]() - a library/component for `.NET` that allows to use Camera easily (via `DirectShow`).
+2. [Camera_Net](https://github.com/free5lot/Camera_Net) - a library/component for `.NET` that allows to use Camera easily (via `DirectShow`).
 It also became popular because of lack of proper and handy solutions to use camera in `.NET` in such a convenient way.  
 You can read [my CodeProject article](https://www.codeproject.com/Articles/671407/Camera-Net-Library) about this library for more details.
 
